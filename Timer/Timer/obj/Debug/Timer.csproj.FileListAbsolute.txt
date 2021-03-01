@@ -1,0 +1,10 @@
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.FormTimer.resources
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\s182169.TSITCL\source\repos\Timer\Timer\obj\Debug\Timer.pdb
